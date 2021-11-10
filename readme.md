@@ -321,23 +321,23 @@
 	  
 	  
   "parses": [
-	  {"name":"Json并发","type":2,"url":"Parallel"},
-	  {"name":"Json轮询","type":2,"url":"Sequence"},
-    {"name":"1","url":"https://titan.mgtv.com.jumi.tv/player/?url="},
-    {"name":"2","url":"https://dmku.dijiaxia.com/?url="},
-    {"name":"3","url":"https://jx.ysgc.xyz/?url="},
-    {"name":"4","url":"http://egwang186.gitee.io/?url="},
-    {"name":"5","url":"https://jx.daidaitv.top:43810/?url="},
-    {"name":"6","url":"https://okjx.cc/?url="},
-    {"name":"7","url":"https://jx.ppflv.com/?url="},
-    {"name":"8","url":"http://an61.com/jx/vip?v="},
-    {"name":"9","url":"http://60jx.com/?url="},
-    {"name":"10","url":"http://cache.languang.icu:88/didi.php?url="},
-    {"name":"11","url":"https://play.tkys.tv/?url="},
-    {"name":"12","url":"https://buaon.xyz/?url="},
-    {"name":"13","url":"https://jx.zuixinyiqi.com/jiekou-3/?url="},
-    {"name":"14","url":"https://jiexi.moeamv.com/?url="},
-	  {"name":"Json.VodJX","url":"https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=","type":1}
+	{"name":"Json并发","type":2,"url":"Parallel"},
+	{"name":"Json轮询","type":2,"url":"Sequence"},
+	{"name":"1","url":"https://titan.mgtv.com.jumi.tv/player/?url="},
+    	{"name":"2","url":"https://dmku.dijiaxia.com/?url="},
+   	{"name":"3","url":"https://jx.ysgc.xyz/?url="},
+   	{"name":"4","url":"http://egwang186.gitee.io/?url="},
+    	{"name":"5","url":"https://jx.daidaitv.top:43810/?url="},
+    	{"name":"6","url":"https://okjx.cc/?url="},
+    	{"name":"7","url":"https://jx.ppflv.com/?url="},
+    	{"name":"8","url":"http://an61.com/jx/vip?v="},
+    	{"name":"9","url":"http://60jx.com/?url="},
+    	{"name":"10","url":"http://cache.languang.icu:88/didi.php?url="},
+    	{"name":"11","url":"https://play.tkys.tv/?url="},
+    	{"name":"12","url":"https://buaon.xyz/?url="},
+    	{"name":"13","url":"https://jx.zuixinyiqi.com/jiekou-3/?url="},
+    	{"name":"14","url":"https://jiexi.moeamv.com/?url="},
+	{"name":"Json.VodJX","url":"https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=","type":1}
   ],
 	  
 	  
