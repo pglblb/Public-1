@@ -6,7 +6,7 @@
 ```json 
 { 
 	
-"spider":"https://github.com/Tangsan99999/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 "sites": [
 
 {"key":"爬虫","name":"⇩⇩爬虫⇩⇩","type":0,"api":""},
