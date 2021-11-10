@@ -1,11 +1,11 @@
 # 真看不懂，我也没办法。
 ---
 <details>
-<summary>点我</summary>
+<summary>▶懒人请点我◀</summary>
 
-```json
-  
-  { 
+```json 
+{ 
+	
 "spider":"https://github.com/Tangsan99999/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 "sites": [
 
