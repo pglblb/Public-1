@@ -50,7 +50,6 @@
 {"key":"csp_xpath_egg","name":"蛋蛋影院(XPath)","type":3,"api":"csp_XPathEgg","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/egg.json"},
 {"key":"csp_yysdali","name":"YYDS影视(XPath)","type":3,"api":"csp_YydsAli","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/yyds.json"},
 {"key":"csp_yinghua","name":"樱花动漫(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/yinghua.json"},
-{"key":"csp_mp4er","name":"哔嘀影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/mp4er.json"},
 
 
 
