@@ -359,4 +359,12 @@
 
 https://catvod.github.io/CatVodTVJsonEditor/
 
+----
+
+##### 配置接口
+
+https://pastebin.com/raw/izVq5sXv
+
+
+
 
