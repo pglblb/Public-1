@@ -361,12 +361,12 @@ https://catvod.github.io/CatVodTVJsonEditor/
 
 ----
 
-##### 配置接口
+##### 配置接口网站
 
-https://pastebin.com/raw/izVq5sXv
-https://ghostbin.com/zcpUt/raw
-https://www.toptal.com/developers/hastebin/raw/qufatepesa
-https://rentry.co/og4qv/raw
+https://pastebin.com/
+https://ghostbin.com/
+https://hastebin.com/
+https://rentry.co/
 
 
 
