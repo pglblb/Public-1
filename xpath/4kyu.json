@@ -18,7 +18,7 @@
 		"动漫": "4",
 		"体育频道": "34"
 	},
-	"homeVodNode": "//div[contains(@class, 'padding-0')]//ul[contains(@class,'myui-vodlist')]/li//a[contains(@class,'myui-vodlist__thumb')]",
+	"homeVodNode": "//li[contains(@class, 'col-lg-8')]/div/a[contains(@class,'myui-vodlist__thumb')]",
 	"homeVodName": "/@title",
 	"homeVodId": "/@href",
 	"homeVodIdR": "/voddetail/(\\w+).html",
@@ -26,7 +26,7 @@
 	"homeVodImgR": "\\S+(http\\S+)",
 	"homeVodMark": "/span[contains(@class,'pic-text')]/text()",
 	"cateUrl": "https://4kyu.cc/vodtype/{cateId}-{catePg}.html",
-	"cateVodNode": "//ul[contains(@class,'myui-vodlist')]//li//a[contains(@class,'myui-vodlist__thumb')]",
+	"cateVodNode": "//li[contains(@class, 'col-lg-7')]/div/a[contains(@class,'myui-vodlist__thumb')]",
 	"cateVodName": "/@title",
 	"cateVodId": "/@href",
 	"cateVodIdR": "/voddetail/(\\w+).html",
