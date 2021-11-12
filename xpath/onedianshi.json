@@ -28,7 +28,7 @@
   "cateVodMark": "//span[contains(@class,'pic-text')]/text()",
   "dtUrl": "https://www.onedianshi.com/vod/detail/id/{vid}.html",
   "dtNode": "//body",
-  "dtName": "//div[@class='myui-content__thumb']/a/text()",
+  "dtName": "//div[@class='myui-content__thumb']/a/@title",
   "dtNameR": "",
   "dtImg": "//div[@class='myui-content__thumb']/a/img/@data-original",
   "dtImgR": "",
