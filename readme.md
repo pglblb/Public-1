@@ -22,6 +22,8 @@
 {"key":"csp_Nekk","name":"9E看看","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":0,"filterable":1},
 
 {"key":"XPATH","name":"⇩⇩XPATH⇩⇩","type":0,"api":""},
+{"key": "csp_xpath_vipmv","name": "追剧(XPathMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/vipmv.json"},
+{"key": "csp_xpath_xkys","name": "星空(XPathMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/xkys.json"},
 {"key": "csp_xpath_gimy","name": "GimyTV(XPathMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/gimytv.json"},
 {"key": "csp_xpath_4kyu","name": "一只鱼4K(XPathMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/4kyu.json"},
 {"key":"csp_xpath_555","name":"555电影(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/555.json"},
