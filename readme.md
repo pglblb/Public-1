@@ -1,5 +1,7 @@
 # 真看不懂，我也没办法。
-[![.github/workflows/Auto-Sync.yml](https://github.com/Tangsan99999/tv/actions/workflows/Auto-Sync.yml/badge.svg)](https://github.com/Tangsan99999/CatVodTVSpider)
+##自动同步官方GitHub仓库至Gitee仓库。
+
+# [![.github/workflows/Auto-Sync.yml](https://github.com/Tangsan99999/tv/actions/workflows/Auto-Sync.yml/badge.svg)](https://gitee.com/tangsan99999/CatVodTVSpider)
 ---
 <details>
 <summary>▶懒人请点我(更新至14.11.2021)◀</summary>
