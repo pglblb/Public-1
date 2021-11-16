@@ -363,7 +363,7 @@
 ```json 
 { 
 "wallpaper": "https://github.com/Tangsan99999/Public/blob/main/wallpapertip_hd-stock-wallpapers_143866.jpg",
-"spider":"https://gitee.com/tangsan99999/CatVodTVSpider/blob/master/jar/custom_spider.jar",
+"spider":"https://gitee.com/tangsan99999/CatVodTVSpider/raw/master/jar/custom_spider.jar",
 "sites": [
 
 {"key":"爬虫","name":"⇩⇩爬虫⇩⇩","type":0,"api":""},
