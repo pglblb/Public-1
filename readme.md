@@ -42,6 +42,7 @@
 {"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/duboku.json" },
 {"key":"csp_xpath_duboku2","name":"独播库2(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/duboku2.json" },
 
+{"key":"csp_xpath_dd520","name":"多多(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/dd520.json"},
 {"key":"csp_xpath_fantuan","name":"饭团(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/fantuan.json"},
 {"key":"csp_xpath_axx","name":"爱西西(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/aixixi.json"},
 {"key":"csp_xpath_jpys","name":"极品(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/jpys.json"},
@@ -396,6 +397,7 @@
 {"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/duboku.json" },
 {"key":"csp_xpath_duboku2","name":"独播库2(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/duboku2.json" },
 
+{"key":"csp_xpath_dd520","name":"多多(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/dd520.json"},
 {"key":"csp_xpath_fantuan","name":"饭团(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/fantuan.json"},
 {"key":"csp_xpath_axx","name":"爱西西(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/aixixi.json"},
 {"key":"csp_xpath_jpys","name":"极品(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/jpys.json"},
