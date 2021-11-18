@@ -47,7 +47,7 @@
   "dtDesc": "//p[@class='col-pd']/text()",
   "dtDescR": "",
   "dtFromNode": "//h3[contains (@class,'title')]",
-  "dtFromName": "/following-sibling::*/text()",
+  "dtFromName": "/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class, 'stui-content__playlist clearfix column8')]",
   "dtUrlSubNode": "/li/a",
