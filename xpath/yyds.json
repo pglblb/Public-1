@@ -44,3 +44,4 @@
   "scVodMark": "//div[@class='list-body']/a/text()",
   "scVodMarkR": "\\S+\\) (.+)"
 }
+
