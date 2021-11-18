@@ -4,7 +4,7 @@
 ---
 
 <details>
-<summary>▶请点我(不再更新，只作为参考)(Github Jar包)◀</summary>
+<summary>▶请点我(不再更新，只作为参考)◀</summary>
 
 ```json 
 { 
