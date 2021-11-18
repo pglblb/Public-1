@@ -11,7 +11,7 @@
 // 壁纸
 "wallpaper": "https://raw.githubusercontent.com/Tangsan99999/Public/main/wallpapertip_hd-stock-wallpapers_143866.jpg",
 	
-// 国内请把spider地址更改gitee
+// 国内请把jar地址上传至gitee或其他
 // 例： "spider":"https://gitee.com/tangsan99999/CatVodTVSpider/raw/master/jar/custom_spider.jar",
 "spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 		
@@ -31,7 +31,7 @@
 {"key":"csp_Nekk","name":"9E看看","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":0,"filterable":1},
 	
 
-{"key":"XPATH","name":"⇩⇩XPATH⇩⇩","type":0,"api":""},  
+{"key":"XPATH","name":"⇩⇩XPATH⇩⇩","type":0,"api":""},  // 不懂编辑语言，建议勿改勿问。
 {"key": "csp_xpath_vipmv","name": "追剧(XPMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/vipmv.json"},
 {"key": "csp_xpath_xkys","name": "星空(XPMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/xkys.json"},
 {"key": "csp_xpath_4kyu","name": "一只鱼4K(XPMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/4kyu.json"},
