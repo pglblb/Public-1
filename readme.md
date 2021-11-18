@@ -2,8 +2,6 @@
  [![.github/workflows/Auto-Sync.yml](https://github.com/Tangsan99999/tv/actions/workflows/Auto-Sync.yml/badge.svg)](https://gitee.com/tangsan99999/CatVodTVSpider) [![.github/workflows/Auto-Fetch.yml](https://github.com/Tangsan99999/tv/actions/workflows/Auto-Fetch.yml/badge.svg)](https://github.com/catvod/CatVodTVSpider)
 
 ---
-国内请把spider地址更改gitee
-例： "spider":"https://gitee.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 
 <details>
 <summary>▶请点我(不再更新，只作为参考)(Github Jar包)◀</summary>
