@@ -1,17 +1,25 @@
 ## 自动同步官方GitHub仓库至Gitee仓库。
-# [![.github/workflows/Auto-Sync.yml](https://github.com/Tangsan99999/tv/actions/workflows/Auto-Sync.yml/badge.svg)](https://gitee.com/tangsan99999/CatVodTVSpider) [![.github/workflows/Auto-Fetch.yml](https://github.com/Tangsan99999/tv/actions/workflows/Auto-Fetch.yml/badge.svg)](https://github.com/catvod/CatVodTVSpider)
+ [![.github/workflows/Auto-Sync.yml](https://github.com/Tangsan99999/tv/actions/workflows/Auto-Sync.yml/badge.svg)](https://gitee.com/tangsan99999/CatVodTVSpider) [![.github/workflows/Auto-Fetch.yml](https://github.com/Tangsan99999/tv/actions/workflows/Auto-Fetch.yml/badge.svg)](https://github.com/catvod/CatVodTVSpider)
 
 ---
+国内请把spider地址更改gitee
+例： "spider":"https://gitee.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+
 <details>
-<summary>▶懒人请点我(更新至14.11.2021)(Github Jar包)◀</summary>
+<summary>▶请点我(不再更新，只作为参考)(Github Jar包)◀</summary>
 
 ```json 
 { 
 "wallpaper": "https://raw.githubusercontent.com/Tangsan99999/Public/main/wallpapertip_hd-stock-wallpapers_143866.jpg",
 "spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+// 国内请把spider地址更改gitee
+// 例： "spider":"https://gitee.com/tangsan99999/CatVodTVSpider/raw/master/jar/custom_spider.jar",
+	
+	
+// 以下配置作为参考，有些我也没用过，只是测试过能用，若有问题自行解决。	
 "sites": [
 
-{"key":"爬虫","name":"⇩⇩爬虫⇩⇩","type":0,"api":""},
+{"key":"爬虫","name":"⇩⇩爬虫⇩⇩","type":0,"api":""}, // 不懂编辑语言，建议勿改勿问。
 {"key":"csp_Juhi","name":"剧嗨(爬虫)","type":3,"api":"csp_Juhi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nfx","name":"NFXHD(爬虫)","type":3,"api":"csp_Nfx","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Djx","name":"瓜皮TV(爬虫)","type":3,"api":"csp_Djx","searchable":1,"quickSearch":1,"filterable":1},
@@ -22,8 +30,9 @@
 {"key":"csp_Cokemv","name":"Cokemv(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"影视工厂(爬虫)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nekk","name":"9E看看","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":0,"filterable":1},
+	
 
-{"key":"XPATH","name":"⇩⇩XPATH⇩⇩","type":0,"api":""},
+{"key":"XPATH","name":"⇩⇩XPATH⇩⇩","type":0,"api":""},  
 {"key": "csp_xpath_vipmv","name": "追剧(XPMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/vipmv.json"},
 {"key": "csp_xpath_xkys","name": "星空(XPMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/xkys.json"},
 {"key": "csp_xpath_4kyu","name": "一只鱼4K(XPMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/4kyu.json"},
@@ -121,7 +130,7 @@
 {"key":"测试","name":"测试","type":1,"api":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/","playUrl":"","categories":[]},
 
 
-{"key":"APP影视","name":"⇩⇩APP影视⇩⇩","type":0,"api":""},
+{"key":"APP影视","name":"⇩⇩APP影视⇩⇩","type":0,"api":""}, // 建议勿改勿问。
 {"key":"csp_appys_xiaogui_007影视", "name":"007影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_007影视"},
 {"key":"csp_appys_xiaogui_555电影", "name":"555电影(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_555电影"},
 {"key":"csp_appys_xiaogui_5060影院", "name":"5060影院(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_5060影院"},
@@ -298,7 +307,7 @@
 
 
 ],
-  
+// 直播配置，不懂也勿问。
   "lives":[
     {"group":"Astro 1","channels":[
 	{"name":"AOD-HD","urls":["http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8"]},
@@ -323,7 +332,7 @@
 	{"name":"TV9","urls":["http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8"]}
 	]}],
 	  
-	  
+// 解析地址配置，不懂请参考官方Github。	  
   "parses": [
 	{"name":"Json并发","type":2,"url":"Parallel"},
 	{"name":"Json轮询","type":2,"url":"Sequence"},
@@ -344,15 +353,30 @@
 	{"name":"Json.VodJX","url":"https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=","type":1}
   ],
 	  
-	  
+// 匹配解析地址名称，2.0.6版本已经开始应该不必添加什么了。	  
   "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"],
-	  
+
+// 播放器，这个我也不知啥玩意，建议勿改勿问。。
   "ijk":[
 {"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category": 2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"}]},
 {"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category": 2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"}]}
 		],
+	
+// 屏蔽广告。
 "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
   
   
 ```
 </details>
+
+
+## 官方配置编辑器
+https://catvod.github.io/CatVodTVJsonEditor/
+
+
+### 上传配置接口
+#### 例：https://pastebin.com/raw/izVq5sXv 
+
+1. https://pastebin.com/
+2. https://ghostbin.com/
+3. https://www.toptal.com/developers/hastebin/
