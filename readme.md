@@ -8,12 +8,13 @@
 
 ```json 
 { 
+// 壁纸
 "wallpaper": "https://raw.githubusercontent.com/Tangsan99999/Public/main/wallpapertip_hd-stock-wallpapers_143866.jpg",
-"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+	
 // 国内请把spider地址更改gitee
 // 例： "spider":"https://gitee.com/tangsan99999/CatVodTVSpider/raw/master/jar/custom_spider.jar",
-	
-	
+"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+		
 // 以下配置作为参考，有些我也没用过，只是测试过能用，若有问题自行解决。	
 "sites": [
 
