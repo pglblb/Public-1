@@ -387,7 +387,7 @@ https://catvod.github.io/CatVodTVJsonEditor/
 
 :warning:看不懂英语不是问题，大多数浏览器是支持翻译中文的，或中文版的剪贴板，别装 "弱弱的" 问一句怎么用。:fu:
 
-:warning:有时候配置没错但却加载不了，可以尝试换个配置链接(包括配置内容链接[jar包])如以下，大陆网络大多数都需要翻墙才能使用pastebin.
+:warning:有时候配置没错但却加载不了，可以尝试换个配置链接【包括配置内容链接[jar包]】如以下，大陆网络大多数都需要翻墙才能使用pastebin.
 1. https://pastebin.com/
 2. https://ghostbin.com/
 3. https://www.toptal.com/developers/hastebin/
