@@ -385,9 +385,11 @@ https://catvod.github.io/CatVodTVJsonEditor/
 
 :-1: `https://pastebin.com/izVq5sXv`  (无效) :-1:
 
+:warning:看不懂英语不是问题，大多数浏览器是支持翻译中文的，或中文版的剪贴板，别装 "弱弱的" 问一句怎么用。:fu:
 1. https://pastebin.com/
 2. https://ghostbin.com/
 3. https://www.toptal.com/developers/hastebin/
+4. https://netcut.cn/ （不建议使用并分享，被举报肯定封）
 ---
 
 ### 打开APP > 设置 > 当前配置接口 (填上配置接口链接) 如图下:
