@@ -386,6 +386,7 @@ https://catvod.github.io/CatVodTVJsonEditor/
 :-1: `https://pastebin.com/izVq5sXv`  (无效) :-1:
 
 :warning:看不懂英语不是问题，大多数浏览器是支持翻译中文的，或中文版的剪贴板，别装 "弱弱的" 问一句怎么用。:fu:
+
 :warning:有时候配置没错但却加载不了，可以尝试换个配置链接如以下，大陆网络大多数都需要翻墙才能使用pastebin.
 1. https://pastebin.com/
 2. https://ghostbin.com/
