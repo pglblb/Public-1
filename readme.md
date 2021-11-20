@@ -4,7 +4,7 @@
 ---
 
 <details>
-<summary>▶请点我(不再更新，配置内容只作为参考)◀</summary>
+<summary>▶请点我(不再更新，只作为参考)◀ 【配置内容】</summary>
 
 ```json 
 { 
