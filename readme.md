@@ -4,7 +4,7 @@
 ---
 
 <details>
-<summary>▶请点我(不再更新，只作为参考)◀</summary>
+<summary>▶请点我(不再更新，配置内容只作为参考)◀</summary>
 
 ```json 
 { 
@@ -372,16 +372,33 @@
 </details>
 
 
-## 官方配置编辑器
+### 官方配置编辑器
+```
 https://catvod.github.io/CatVodTVJsonEditor/
+```
 
 
 ### 上传配置接口
-#### 例：https://pastebin.com/raw/izVq5sXv 
+:warning:注意:warning:接口链接必须只有粘贴文本
+
+:+1: `https://pastebin.com/raw/izVq5sXv` (有效) :+1:
+
+:-1: `https://pastebin.com/izVq5sXv`  (无效) :-1:
 
 1. https://pastebin.com/
 2. https://ghostbin.com/
 3. https://www.toptal.com/developers/hastebin/
+---
 
+### 打开APP > 设置 > 当前配置接口 (填上配置接口链接) 如图下:
 
-## 澄清一下，这里非官方网站，若有错误，与官方无关。
+![.](/img/Tutoria2l.png)
+
+![.](/img/Tutorial.png)
+
+点击确定，然后返回即可。
+
+---
+
+# :warning:非官方网站，若有错误，自行解决。再见！！！:warning:
+![.](/img/bye-cry.gif)
