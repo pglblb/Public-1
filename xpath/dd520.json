@@ -30,7 +30,7 @@
   "dtNode": "//body",
   "dtName": "//h1[@class='page-title']/text()",
   "dtNameR": "",
-  "dtImg": "//div[@class='module-item-pic']/img/@src",
+  "dtImg": "//div[@class='video-cover']//div[@class='module-item-pic']/img/@data-src",
   "dtImgR": "",
   "dtCate": "//div[@class='tag-link']/a/text()",
   "dtYear": "//a[@class='tag-link'][2]/text()",
