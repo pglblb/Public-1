@@ -1,5 +1,7 @@
 ```json
 
+
+{"key":"csp_xpath_waipian2","name":"歪片星球(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://youmostfear.coding.net/p/cat/d/Public/git/raw/main/xpath/waipian2.json" },
 {"key":"csp_xpath_vipmv","name":"追剧(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://youmostfear.coding.net/p/cat/d/Public/git/raw/main/xpath/vipmv.json"},
 {"key":"csp_xpath_xkys","name":"星空(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://youmostfear.coding.net/p/cat/d/Public/git/raw/main/xpath/xkys.json"},
 {"key":"csp_xpath_4kyu","name":"一只鱼4K(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://youmostfear.coding.net/p/cat/d/Public/git/raw/main/xpath/4kyu.json"},
