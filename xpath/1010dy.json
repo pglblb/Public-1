@@ -2,6 +2,8 @@
   "Author": "zhao xiaoyun",
   "ua": "",
   "homeUrl": "https://www.1010dy.cc",
+  "dcVipFlag": "true",
+  "dcPlayUrl": "true",
   "cateNode": "//ul[contains(@class,'stui-header__menu type-slide')]/li/a[contains(@href, 'type') and not(contains(@href,'label'))]",
   "cateName": "/text()",
   "cateId": "/@href",
