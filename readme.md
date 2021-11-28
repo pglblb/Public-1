@@ -3,8 +3,6 @@
 
 国内 https://pastebin.com/raw/izVq5sXv
 
-国外 https://pastebin.com/raw/Y7SMyZ8v
-
 ### 官方配置编辑器
 ```
 https://catvod.github.io/CatVodTVJsonEditor/
